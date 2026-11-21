@@ -32,7 +32,4 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on the **Super
 2. **Optimize Product Mix:** Focus marketing and inventory expansion on high-margin Technology and Office Supplies sub-categories.
 3. **Regional Strategy Review:** Audit shipping and operational costs in underperforming states within the Central region.
 
-## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/SUPERSTORE-SALES-PROFIT-ANALYSIS.git](https://github.com/your-username/SUPERSTORE-SALES-PROFIT-ANALYSIS.git)
+
